@@ -1,7 +1,7 @@
 # Gatsby Starter: Typescript + SASS
-Starter with the essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site, with typescript and SASS added in.
+Starter with the essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site, with Typescript and SASS added in.
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+Install this starter by running from your [Gatsby CLI]():
 ```
-gatsby new gatsby-site https://github.com/tdharmon/gatsby-starter-typescript-sass
+gatsby new gatsby-site-with-typescript https://github.com/tdharmon/gatsby-starter-typescript-sass
 ```
