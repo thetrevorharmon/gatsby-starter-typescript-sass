@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "gatsby-starter-typescript-sass",
+  "description": "Gatsby typescript sass starter",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
@@ -8,7 +8,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "next",
+    "gatsby": "^2.0.0-rc.10",
     "gatsby-plugin-sass": "^2.0.0-rc.2",
     "gatsby-plugin-typescript": "^2.0.0-rc.3",
     "node-sass": "^4.9.3",
