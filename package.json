@@ -2,6 +2,7 @@
   "name": "gatsby-starter-typescript-sass",
   "description": "Gatsby typescript sass starter",
   "license": "MIT",
+  "version": "1.0.0",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
