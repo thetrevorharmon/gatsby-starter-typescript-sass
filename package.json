@@ -7,8 +7,7 @@
     "start": "gatsby develop",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve",
-    "lint": "eslint --ext **/*.d.ts --fix './*.ts'"
+    "serve": "gatsby serve"
   },
   "husky": {
     "hooks": {
@@ -17,8 +16,7 @@
   },
   "lint-staged": {
     "*.{ts,js}": [
-      "eslint --ext **/*.d.ts --fix './*.ts'",
-      "git add"
+      "eslint --ext **/*.d.ts --fix"
     ]
   },
   "dependencies": {

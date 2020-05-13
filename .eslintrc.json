@@ -14,8 +14,8 @@
   "overrides": [
     {
       "files": [
-        "*.ts",
-        "*.tsx"
+        "./src/**/*.ts",
+        "./src/**/*.tsx"
       ],
       "extends": [
         "plugin:@typescript-eslint/recommended",
